@@ -1,6 +1,6 @@
 # unplugin-json
 
-[![NPM version](https://img.shields.io/npm/v/unplugin-json?color=a1b858&label=)](https://www.npmjs.com/package/unplugin-json)
+[![NPM version](https://img.shields.io/npm/v/unplugin-json2?color=a1b858&label=)](https://www.npmjs.com/package/unplugin-json2)
 
 🍣 A universal bundler plugin which Converts .json files to ES6 modules.
 
